@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Bima Prihartanto</h1>
-<h3 align="center">A passionate full stack developer from Indonesia</h3>
+# 💫 About Me:
+🔭 I’m currently school on Wearnes Education Center<br>🌱 I’m currently learning full stack developer<br>💬 Ask me about anything<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdbys&label=Profile%20views&color=0e75b6&style=flat" alt="sdbys" /> </p>
 
-- 🔭 I’m currently school on **Wearnes Education Center**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heybim__) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/heybim__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heybim__" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sdbys&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sdbys&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sdbys&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdbys&show_icons=true&locale=en&layout=compact" alt="sdbys" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=sdbys&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
