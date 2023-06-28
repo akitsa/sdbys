@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently school on Wearnes Education Center<br>🌱 I’m currently learning PHP<br>💬 Ask me about anything<br>
+🔭 <br>🌱 I’m currently learning PHP<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
