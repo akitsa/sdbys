@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 <br>🌱 I’m currently learning PHP<br>💬 Ask me about anything<br>
+🔭 <br>🌱 I’m currently learning PHP<br>
 
 
 ## 🌐 Socials:
